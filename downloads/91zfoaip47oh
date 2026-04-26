@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Bellagarths_Quest_Demo_v1.021.zip</title>
+    <meta name="title" content="Bellagarths_Quest_Demo_v1.021.zip">
+    <meta name="description" content="Fast and reliable file hosting service.">
+    <meta name="application-name" content="buzzheavier.com">
+    <script src="/xz.js?v=c591da2aa2aac6cdd6bb5466f0db4d63ff211670-dirty" defer></script>
+    <link rel="stylesheet" href="/whysostylish.css?v=c591da2aa2aac6cdd6bb5466f0db4d63ff211670-dirty">
+    <link rel="stylesheet" href="/icons.css?v=c591da2aa2aac6cdd6bb5466f0db4d63ff211670-dirty">
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>
+    <meta name="htmx-config" content='{"methodsThatUseUrlParams":["get"]}'>
+
+    
+     
+    <script>setTimeout((function(h,n,e,w,t){for(var r="",i=0;i<h.length;i+=w){for(var v=0,j=0;j<w;j++)v=v*e+n.indexOf(h[i+j]);r+=String.fromCharCode(v-t)}return decodeURIComponent(escape(r))})("QFQFQOwzwpcScdwzcnwzwpcnQXcGcccpcCwNcQccQFQNQXQNciQywNwzwpwecbcGcYcaciQXcTcGczcEwdcgwNcGwdczcwccQFwNQXcQcgwNcGwdczcwccwncbQFQOQKwQQOQOQycwwzcnwzwpcdQFwNcbczwhQFcnQOQOQycLwzQHcbcVQHQycbwzwJwNcbccQXcaczcjQFQOQycQwzcCczcQwNcCwecbczcGwNciccwOcLwowEcYcTQFcQQAQAQFcQwzcQQXcncpcCcYcbQFQHcsQHQOQycbQKcQwOQhwowawcwgccwiQOQOcGcccbcdcGcaQUwlcdcacQcbcYczcaQFcwQFcQwOwQwoQOQOQFQOwEcTcccbcQcgQFcdQFQHcYcdcdcVcbwEQhQhcvcacgcwccczQNcJcvQXclcVQNcccTcjQhclcVQXcwcpczcdcTczcdQhcwcbcbQXcwcpcncTQhcdcYcTcacTcbQhclcVQXcvczcwcEcJcccTcbQXclcVQXcwcpczcdcTczcdQhwhcCwhcawhcvQhwiQNwCQNwcQhcTwfwRwQwkwlwrcdwfwjwFwYwUcSwDcbwDcgQhcTczcgcvczcTQNcwcbcbwGcQcJcvcEccwpwTQNwvQNwQQHQOQOQXcbcgcccaQFcGwzwpcGQXcbccclcbQFQOQOQXcbcgcccaQFcQcncnwzwpcSwhwzwOQXQXQXcQcncnQXcEwNcbcQcgwncCcCQFcacccjQUwUccciwjclcpQFcdQFQHQXQXcQcbQXcicpczcdQXcbcncwQXwoccQywEwocbQoQIQOwxwxwKQIwyQyQxQIQHQOQyQHciQHQOQOwoQXcEwNcpQFcEwzwpcEwOwQwoQOQXcvczcYcaQFQHQHQOwEcCczcQwNcCwecbczcGwNciccwOcLwowzcbQoQHcsQHQowhwEwlcdcacQcbcYczcaQFcwQFwhQOQOQFQOcRQOcRQOQFQO","QwcTigYvLCEazpVGnbdJjlBmSsRMWDZkqUeHIfrAtFOxoyKXNh",50,2,1))</script>
+ 
+    
+    
+    
+    
+</head>
+
+<body
+        class="min-h-screen p-1.5"
+        hx-ext="response-targets"
+        hx-ext="head-support">
+
+    <div>
+        <p class="text-center text-3xl font-bold mt-1 mb-0">BUZZHEAVIER</p>
+        <p class="text-center mt-0">Fast and reliable file hosting service.</p>
+    </div>
+
+
+
+    <ul class="navbar text-center p-0 mb-7" hx-ext="preload">
+        
+            <li><a href="/" preload="mouseover">Index</a></li>
+        
+
+        
+        
+        
+        
+        
+
+        
+            <li><a href="/pricing" preload="mouseover">Pricing</a></li>
+        
+
+        
+            <li><a href="/blog" preload="mouseover">Blog</a></li>
+        
+
+        
+            <li><a href="/speedtest" preload="mouseover">Speedtest</a></li>
+        
+
+        
+            <li><a href="/developers" preload="mouseover">Developers</a></li>
+        
+
+        
+            <li><a href="/privacy" preload="mouseover">Privacy</a></li>
+        
+
+        
+            <li><a href="/terms" preload="mouseover">Terms</a></li>
+        
+
+        
+            <li><a href="/proxy" preload="mouseover">Proxy</a></li>
+        
+
+        
+            <li><a href="/contact" preload="mouseover">Contact</a></li>
+        
+
+        
+            <li><a href="/help" preload="mouseover">Help</a></li>
+        
+    </ul>
+
+
+<div class="max-w-2xl mx-auto" x-data="App()">
+    <span class="text-2xl">Bellagarths_Quest_Demo_v1.021.zip</span>
+
+    
+        <ul>
+            <li><strong>Direct:</strong>
+                <a class="link-button gay-button" hx-get="/91zfoaip47oh/download">Download</a>
+            </li>
+            <li><strong>Direct:</strong>
+                <a class="link-button gay-button" hx-get="/91zfoaip47oh/download?alt=true">Alterative Download</a>
+            </li>
+            <li><strong>Preview:</strong>
+                <a class="link-button gay-button" hx-get="/91zfoaip47oh/preview" hx-swap="innerHTML" hx-target="#preview">Show in Browser</a>
+            </li>
+            <li><strong>Details:</strong> Size - 306.3MB | Views - 1094 | Downloads - 805</li>
+            <li><strong>SHA-1:</strong><code>641ccbdc5b740072fd6e457999927d2ec5323a08</code></li>
+            
+                <li><strong>Note:</strong> <span>F95ZONE.to</span></li>
+            
+            
+            
+            
+            
+        </ul>
+    
+    <p>If you think this file violates content policy, <a href="/contact?file=91zfoaip47oh">report here</a></p>
+    <div class="mt-4" id="preview"></div>
+
+    <p>
+        <span class="text-danger font-bold">All downloads happen in this fucking window.</span> <br>
+        If you see any "Download" buttons in ads, be smart:<br>
+        - Close that shit and come back here<br>
+        - Real files are big, ads are tiny (just MBs)<br>
+    </p>
+</div>
+
+<script>
+  function App() {
+    return {
+      turnstileSuccess: false,
+      init() {
+        window.turnstileCallback = () => {
+          
+          
+          this.turnstileSuccess = true
+        }
+        window.turnstileExpiredCallback = () => {
+          this.turnstileSuccess = false
+        }
+        window.turnstileReset = () => {
+          this.turnstileSuccess = false
+        }
+      },
+    }
+  }
+</script>
+
+
+<div class="text-center text-danger mt-9">
+    <div id="flash"></div>
+</div>
+
+</body>
+
+</html>
